@@ -3,7 +3,8 @@
 <br>
 💻 Building cool projects & exploring new technologies
 <br>
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ankittripathe)  |  [GitHub](https://github.com/ankittripathe)  |  [Email](mailto:ankittripathe@gmail.com)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ankittripathe)  |  [GitHub](https://github.com/ankittripathe)  |  [Email](mailto:ankittripathe@gmail.com) | 
+[Twitter](https://x.com/ankittripathe)
 
 # 🛠 Tech Stack  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
