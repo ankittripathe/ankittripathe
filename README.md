@@ -31,4 +31,6 @@
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankittripathe&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400)
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankittripathe&show_icons=true&theme=tokyonight&count_private=true&rand=123)
+
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankittripathe&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
 ---
