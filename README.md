@@ -25,6 +25,7 @@
 
 # 📊 GitHub Stats  
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankittripathe&show_icons=true&theme=tokyonight&count_private=true)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankittripathe&layout=compact&theme=tokyonight)  
 
 <div>
