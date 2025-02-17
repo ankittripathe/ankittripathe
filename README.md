@@ -26,7 +26,18 @@
 # 📊 GitHub Stats  
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankittripathe&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankittripathe&layout=compact&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankittripathe&layout=compact&theme=tokyonight&count_private=true)
+
+<div align="center">
+  <img 
+       height="195px" 
+       src="https://github-readme-stats.vercel.app/api?username=ankittripathe&show_icons=true&theme=tokyonight&count_private=true"
+  />
+  <img 
+       height="195px" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittripathe&layout=compact&theme=tokyonight"
+  />
+</div>
+
 
 
 ---
