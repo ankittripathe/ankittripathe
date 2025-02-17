@@ -29,4 +29,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankittripathe&layout=compact&theme=tokyonight)  
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankittripathe&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400)
+
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankittripathe&show_icons=true&theme=tokyonight&count_private=true&rand=123)
 ---
