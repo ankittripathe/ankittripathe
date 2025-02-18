@@ -33,4 +33,3 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ankittripathe)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankittripathe)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankittripathe)
-![Profile Views](https://komarev.com/ghpvc/?username=ankittripathe)
