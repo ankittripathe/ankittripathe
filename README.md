@@ -1,5 +1,5 @@
 # Hi! My name is Ankit Tripathi 😄
-🌍 Passionate Front-End Developer
+🌍  I am a Software Developer.
 
 
 <br>
