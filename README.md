@@ -19,10 +19,10 @@
 [![My Skills](https://skillicons.dev/icons?i=figma)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)]() 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=netlify)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 [![My Skills](https://skillicons.dev/icons?i=vscode)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
