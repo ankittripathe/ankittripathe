@@ -5,6 +5,7 @@
 
 # 🛠 Tech Stack  
 ![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
