@@ -4,8 +4,8 @@
 [Twitter](https://x.com/ankittripathe)
 
 # 🛠 Tech Stack  
-![My Skills](https://skillicons.dev/icons?i=react,react-router,react-form)
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![My Skills](https://skillicons.dev/icons?i=react,react-router,react-form)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
