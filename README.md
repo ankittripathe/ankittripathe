@@ -6,12 +6,11 @@
 # 🛠 Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=html,css)]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=js,ts)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+
 [![My Skills](https://skillicons.dev/icons?i=react,next,redux)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
 [![My Skills](https://skillicons.dev/icons?i=tailwind,scss,bootstrap)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=figma)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
