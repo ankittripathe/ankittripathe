@@ -4,6 +4,8 @@
 [Twitter](https://x.com/ankittripathe)
 
 # 🛠 Tech Stack  
+![HTML](https://skillicons.dev/icons?i=html)
+
 [![My Skills](https://skillicons.dev/icons?i=html,css)]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
