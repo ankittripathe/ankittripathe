@@ -16,21 +16,11 @@
 
 ---
 
-#
-
-
-
----
-
-
-
-<📊 GitHub Stats>
-  <h1>📊 GitHub Stats</h1>
-  
+# 📊 GitHub Stats
    <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ankittripathe&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankittripathe&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-</📊 GitHub Stats>
+---
 
 
 
