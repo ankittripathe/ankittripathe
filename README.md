@@ -1,4 +1,4 @@
-# Hi! My name is Ankit Tripathi 😄
+# Hi! I'm Ankit Tripathi 😄
 🌍  I am a Software Developer.
 
 # 📫 Connect with me
