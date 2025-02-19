@@ -1,7 +1,7 @@
-#  Hello, I'm Ankit Tripathi 😄
-🚀 Passionate Front-End Developer skilled in React.js
-<br>
-💻 Building cool projects & exploring new technologies
+# Hi! My name is Ankit Tripathi 😄
+🌍 Passionate Front-End Developer
+
+
 <br>
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ankittripathe)  |  [GitHub](https://github.com/ankittripathe)  |  [Email](mailto:ankittripathe@gmail.com) | 
 [Twitter](https://x.com/ankittripathe)
