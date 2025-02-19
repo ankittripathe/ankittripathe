@@ -3,6 +3,8 @@
 
 # 📫 Connect with me
 [![Portfolio](https://skillicons.dev/icons?i=web)](https://mukeshgehlot-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mukeshgehlot-portfolio.vercel.app/)
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ankittripathe)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/ankittripathe)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ankittripathe@gmail.com)
