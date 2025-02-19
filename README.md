@@ -1,10 +1,14 @@
 # Hi! My name is Ankit Tripathi 😄
 🌍  I am a Software Developer.
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ankittripathe)  |  [GitHub](https://github.com/ankittripathe)  |  [Email](mailto:ankittripathe@gmail.com) | 
+
+ Connect with me: 
+ [LinkedIn](https://www.linkedin.com/in/ankittripathe)  |
+ [GitHub](https://github.com/ankittripathe)  |
+ [Email](mailto:ankittripathe@gmail.com) | 
 [Twitter](https://x.com/ankittripathe)
 
 
-# Connect with me
+# 📫 Connect with me
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mukeshgehlot-portfolio.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankittripathe)
