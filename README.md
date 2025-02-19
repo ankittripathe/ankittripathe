@@ -22,6 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankittripathe)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankittripathe)
 
+![GitHub](https://skillicons.dev/icons?i=github)
 
 
 ### Connect with me
