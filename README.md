@@ -1,8 +1,5 @@
 # Hi! My name is Ankit Tripathi 😄
 🌍  I am a Software Developer.
-
-
-<br>
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ankittripathe)  |  [GitHub](https://github.com/ankittripathe)  |  [Email](mailto:ankittripathe@gmail.com) | 
 [Twitter](https://x.com/ankittripathe)
 
@@ -41,33 +38,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankittripathe)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankittripathe)
 
-
-# Hi! My name is Ankit Tripathi 😄
-
-🌍  I am a Software Developer.
-
-### Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css)]()
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=js,ts)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=react,next,redux)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,scss,bootstrap)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=figma)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=c,cpp)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongo)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=git,github)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=netlify)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=vscode,sublime)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ### Connect with me
