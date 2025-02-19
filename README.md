@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=javascript)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,redux)]() 
+[![My Skills](https://skillicons.dev/icons?i=react)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,scss,bootstrap)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
