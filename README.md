@@ -19,12 +19,11 @@
 [![My Skills](https://skillicons.dev/icons?i=figma)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongo)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git,github)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=netlify)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=vscode,sublime)]() 
+[![My Skills](https://skillicons.dev/icons?i=vscode)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
