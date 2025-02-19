@@ -7,7 +7,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css)]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-
 [![My Skills](https://skillicons.dev/icons?i=react,next,redux)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
