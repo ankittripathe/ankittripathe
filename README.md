@@ -18,8 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=tailwind,scss,bootstrap)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=figma)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=c,cpp)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 [![My Skills](https://skillicons.dev/icons?i=firebase,mongo)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git,github)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
