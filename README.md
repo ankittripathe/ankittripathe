@@ -1,5 +1,5 @@
 # Hi! I'm Ankit Tripathi 😄
-🌍  I am a Software Developer.
+🌍 I am a Software Developer.
 
 # 📫 Connect with me
 [![Portfolio](https://skillicons.dev/icons?i=web)](https://mukeshgehlot-portfolio.vercel.app/)
@@ -8,7 +8,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ankittripathe)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/ankittripathe)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ankittripathe@gmail.com)
-
 
 # 🛠 Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
