@@ -8,10 +8,6 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ankittripathe@gmail.com)
 
 
-
-
-
-
 # 🛠 Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
