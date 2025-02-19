@@ -5,20 +5,10 @@
 
 # 🛠 Tech Stack  
 ![My Skills](https://skillicons.dev/icons?i=react,react-router,react-form)
-
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Javascript](https://skillicons.dev/icons?i=javascript)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
-[![My Skills](https://skillicons.dev/icons?i=javascript)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
-[![My Skills](https://skillicons.dev/icons?i=react)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
-[![My Skills](https://skillicons.dev/icons?i=tailwind,scss,bootstrap)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=figma)]() 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+[![My Skills](https://skillicons.dev/icons?i=tailwind,css)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)]() 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
