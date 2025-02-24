@@ -10,7 +10,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Cursor AI](https://img.shields.io/badge/Editor-Cursor%20AI-blue?style=for-the-badge&logo=cursor&logoColor=white)]()
 
 ---
 
