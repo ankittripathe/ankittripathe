@@ -6,7 +6,9 @@
 &nbsp;&nbsp;
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/ankittripathe)
 &nbsp;&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ankittripathe@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ankittripathe@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ankittripathe)
+&nbsp;&nbsp;
 
 
 
