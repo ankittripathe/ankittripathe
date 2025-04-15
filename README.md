@@ -12,6 +12,7 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ankit_tripathee)
 &nbsp;&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your_number)
+[![WhatsApp](https://img.icons8.com/ios-filled/50/25D366/whatsapp--v1.png)](https://wa.me/91XXXXXXXXXX)
 
 
 
