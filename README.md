@@ -7,8 +7,6 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/ankittripathe)
 &nbsp;&nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ankittripathe@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ankittripathe)
-&nbsp;&nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ankit_tripathee)
 &nbsp;&nbsp;
 
@@ -20,6 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,scss,materialui)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
 ---
 
