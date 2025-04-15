@@ -3,7 +3,7 @@
 
 # 📫 Connect with me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ankittripathe)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/ankittripathe)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/ankittripathe)()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ankittripathe@gmail.com)
 
 # 🛠 Tech Stack  
