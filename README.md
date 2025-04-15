@@ -9,6 +9,9 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ankittripathe@gmail.com)&nbsp;&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ankittripathe)
 &nbsp;&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ankit_tripathee)
+&nbsp;&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your_number)
 
 
 
