@@ -18,6 +18,8 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=framermotion)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=nextjs)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 
