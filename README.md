@@ -13,8 +13,7 @@
 
 
 # 🛠 Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=react,framermotion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,scss,materialui)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=mongodb)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
