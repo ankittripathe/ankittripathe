@@ -17,7 +17,9 @@
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,scss,materialui)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=mongodb)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=react,framermotion)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React & Framer Motion
+[![My Skills](https://skillicons.dev/icons?i=framermotion)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 
 ---
