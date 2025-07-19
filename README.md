@@ -11,6 +11,24 @@
 &nbsp;&nbsp;
 
 
+jjjj
+<p align="left">
+  <a href="https://www.linkedin.com/in/ankittripathe" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="24" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/ankittripathe" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="24" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:ankittripathe@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="24" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/ankit_tripathee" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="24" />
+  </a>
+</p>
+
+
+
 <p align="left">
     <a href="https://www.linkedin.com/in/ankittripathe" target="blank">
         <img align="center" 
