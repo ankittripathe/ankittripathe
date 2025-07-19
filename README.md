@@ -11,27 +11,6 @@
 &nbsp;&nbsp;
 
 
-<p align="left">
-    <a href="https://linkedin.com/in/ankittripathe" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="ankittripathe" height="40" width="40" /></a>&nbsp
-    <a href="https://instagram.com/ankittripathee" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="ankittripathee" height="40" width="40" /></a>&nbsp
-<a href="https://twitter.com/ankittripathe" target="blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-       alt="ankittripathe" height="40" width="40" /></a>&nbsp;
-<a href="mailto:ankittripathe@gmail.com" target="blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-       alt="ankittripathe@gmail.com" height="30" width="40" />
-</a>&nbsp;
-
-</p>
-
-
-
 # 🛠 Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,scss,materialui)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
