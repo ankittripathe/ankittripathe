@@ -18,10 +18,11 @@
     <a href="https://instagram.com/ankittripathee" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="ankittripathee" height="40" width="40" /></a>&nbsp
-    <a href="https://www.leetcode.com/tushh_r" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="tushh_r" height="30" width="40" /></a>&nbsp
-    <a href="https://auth.geeksforgeeks.org/user/_tushh_" target="blank"><img align="center"
+<a href="https://twitter.com/ankittripathe" target="blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+       alt="ankittripathe" height="30" width="40" /></a>&nbsp;
+ <a href="https://auth.geeksforgeeks.org/user/_tushh_" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
             alt="_tushh_" height="30" width="40" /></a>
 </p>
