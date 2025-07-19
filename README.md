@@ -25,6 +25,30 @@
             alt="_tushh_" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/ankittripathe" target="blank">
+        <img align="center" 
+             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+             alt="ankittripathe" height="30" width="40" />
+    </a>&nbsp;
+    <a href="https://x.com/ankittripathe" target="blank">
+        <img align="center" 
+             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+             alt="ankittripathe" height="30" width="40" />
+    </a>&nbsp;
+    <a href="mailto:ankittripathe@gmail.com" target="blank">
+        <img align="center" 
+             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
+             alt="ankittripathe@gmail.com" height="30" width="40" />
+    </a>&nbsp;
+    <a href="https://instagram.com/ankit_tripathee" target="blank">
+        <img align="center" 
+             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+             alt="ankit_tripathee" height="30" width="40" />
+    </a>
+</p>
+
+
 
 
 # 🛠 Tech Stack  
