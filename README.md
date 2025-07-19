@@ -12,8 +12,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ankittripathe" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35" />
-  </a>&nbsp;
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35" /></a>&nbsp;&nbsp;
   <a href="https://x.com/ankittripathe" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="35" />
   </a>&nbsp;&nbsp;
