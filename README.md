@@ -2,14 +2,6 @@
 🌍 I am a Software Developer.
 
 # 📫 Connect with me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ankittripathe)
-&nbsp;&nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/ankittripathe)
-&nbsp;&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ankittripathe@gmail.com)&nbsp;&nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ankit_tripathee)
-&nbsp;&nbsp;
-
 <p align="left">
   <a href="https://www.linkedin.com/in/ankittripathe" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;
@@ -25,12 +17,6 @@
 
 
 # 🛠 Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,scss,materialui)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=mongodb)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
   &nbsp;&nbsp;
