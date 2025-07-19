@@ -10,6 +10,21 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ankit_tripathee)
 &nbsp;&nbsp;
 
+<p align="left">
+    <a href="https://linkedin.com/in/tushar1201" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="tushar1201" height="30" width="40" /></a>&nbsp
+    <a href="https://instagram.com/_tushh.r_" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="_tushh.r_" height="30" width="40" /></a>&nbsp
+    <a href="https://www.leetcode.com/tushh_r" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="tushh_r" height="30" width="40" /></a>&nbsp
+    <a href="https://auth.geeksforgeeks.org/user/_tushh_" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+            alt="_tushh_" height="30" width="40" /></a>
+</p>
+
 
 
 # 🛠 Tech Stack  
