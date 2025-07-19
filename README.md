@@ -31,6 +31,34 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=scss" alt="SCSS" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" />
+</p>
+
+
 ---
 
 # 📊 GitHub Stats
