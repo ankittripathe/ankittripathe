@@ -12,15 +12,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ankittripathe" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35" /></a>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;
   <a href="https://x.com/ankittripathe" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="35" />
-  </a>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" /></a>&nbsp;&nbsp;
   <a href="mailto:ankittripathe@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="35" />
-  </a>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/ankit_tripathee" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="35" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
   </a>
 </p>
 
