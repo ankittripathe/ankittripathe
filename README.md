@@ -22,9 +22,12 @@
   <img align="center"
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
        alt="ankittripathe" height="40" width="40" /></a>&nbsp;
- <a href="https://auth.geeksforgeeks.org/user/_tushh_" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-            alt="_tushh_" height="30" width="40" /></a>
+<a href="mailto:ankittripathe@gmail.com" target="blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+       alt="ankittripathe@gmail.com" height="30" width="40" />
+</a>&nbsp;
+
 </p>
 
 
