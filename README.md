@@ -38,7 +38,6 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Vercel" height="40" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="40" />
 </p>
 
 
