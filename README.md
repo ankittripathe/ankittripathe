@@ -22,11 +22,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML" height="40" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
   <img src="https://skillicons.dev/icons?i=nextjs,react" alt="React and Next.js" height="40" />
   &nbsp;&nbsp;
   
