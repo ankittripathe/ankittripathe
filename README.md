@@ -26,7 +26,9 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
+
+  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React and Next.js" height="40" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40" />
