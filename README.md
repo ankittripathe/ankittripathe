@@ -26,18 +26,26 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <img src="https://skillicons.dev/icons?i=nextjs,react" alt="React and Next.js" height="40" />
   &nbsp;&nbsp;
+  
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40" />
   &nbsp;&nbsp;
   <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" height="40" />
   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/android-chrome-192x192.png" 
+     alt="shadcn/ui" height="40" />
+&nbsp;&nbsp;
+
   <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=scss" alt="SCSS" height="40" />
   &nbsp;&nbsp;
+  
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
