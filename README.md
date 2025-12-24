@@ -26,10 +26,7 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React and Next.js" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react" alt="React and Next.js" height="40" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40" />
   &nbsp;&nbsp;
@@ -37,10 +34,8 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
