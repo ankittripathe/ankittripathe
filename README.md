@@ -20,7 +20,7 @@
 
 # 🛠 Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascripts" alt="HTML" height="40" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
   &nbsp;&nbsp;
