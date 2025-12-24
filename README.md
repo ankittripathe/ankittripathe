@@ -22,20 +22,21 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML" height="40" />
   &nbsp;&nbsp;
+  
   <img src="https://skillicons.dev/icons?i=nextjs,react" alt="React and Next.js" height="40" />
   &nbsp;&nbsp;
   
   <img src="https://skillicons.dev/icons?i=tailwind,materialui,scss" alt="Tailwind CSS" height="40" />
   &nbsp;&nbsp;
-    <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" height="40" />
+  <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" height="40" />
   &nbsp;&nbsp;
-
-
+  
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
- &nbsp;&nbsp;
+  &nbsp;&nbsp;
   
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git" height="40" />
   &nbsp;&nbsp;
+  
   <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Vercel" height="40" />
   &nbsp;&nbsp;
 </p>
