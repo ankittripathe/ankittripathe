@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
  &nbsp;&nbsp;
   
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git" height="40" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   &nbsp;&nbsp;
