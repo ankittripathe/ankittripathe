@@ -36,11 +36,7 @@
   
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git" height="40" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Vercel" height="40" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="40" />
 </p>
