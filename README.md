@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react" alt="React and Next.js" height="40" />
   &nbsp;&nbsp;
   
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,scss" alt="Tailwind CSS" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,scss,shadecn" alt="Tailwind CSS" height="40" />
   &nbsp;&nbsp;
   <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" height="40" />
   &nbsp;&nbsp;
