@@ -30,6 +30,18 @@
   &nbsp;&nbsp;
   <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" height="40" />
   &nbsp;&nbsp;
+
+  <div style="
+  width:40px;
+  height:40px;
+  overflow:hidden;
+  display:inline-flex;
+  margin-left:12px;
+  border-radius:8px;
+">
+  <img src="https://ui.shadcn.com/apple-touch-icon.png" style="width:100%; height:100%; object-fit:cover;" />
+</div>
+
   
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
   &nbsp;&nbsp;
