@@ -28,7 +28,23 @@
   
   <img src="https://skillicons.dev/icons?i=tailwind,materialui,scss" alt="Tailwind CSS" height="40" />
   &nbsp;&nbsp;
-<img src="https://ui.shadcn.com/apple-touch-icon.png" height="40"   style="border-radius:10px;" />
+
+
+<span style="
+  display:inline-flex;
+  width:40px;
+  height:40px;
+  border-radius:8px;
+  overflow:hidden;
+  vertical-align:middle;
+  margin-left:10px;
+">
+  <img 
+    src="https://ui.shadcn.com/apple-touch-icon.png" 
+    style="width:100%; height:100%; object-fit:cover;"
+  />
+</span>
+
 
 
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
