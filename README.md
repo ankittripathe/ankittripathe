@@ -29,13 +29,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind,materialui,scss" alt="Tailwind CSS" height="40" />
   &nbsp;&nbsp;
 
-  <img 
-  src="https://raw.githubusercontent.com/ankittripathe/assets/main/shadcn-skillicon.svg" 
-  height="40" 
-  alt="shadcn/ui"
-/>
-
-
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
   &nbsp;&nbsp;
   
