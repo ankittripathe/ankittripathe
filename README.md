@@ -45,6 +45,13 @@
 # 📊 GitHub Stats
    <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ankittripathe&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 
+   ![GitHub Streak](https://streak-stats.demolab.com?user=ankittripathe&theme=blueberry&hide_border=true)
+
+
+   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankittripathe&theme=github-dark)
+
+   ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankittripathe&theme=github_dark)
+
   
 ---
 
@@ -55,5 +62,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ankittripathe&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
