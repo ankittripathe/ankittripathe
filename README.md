@@ -54,15 +54,6 @@
 
 ---
 
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankittripathe&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-
----
-
-### 🔝 Top Contributed Repos
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=ankittripathe&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 [![](https://visitcount.itsvg.in/api?id=ankittripathe&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
