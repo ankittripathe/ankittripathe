@@ -45,9 +45,6 @@
 # 📊 GitHub Stats
  ![GitHub Streak](https://streak-stats.demolab.com?user=ankittripathe&theme=blueberry&hide_border=true)
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankittripathe&theme=github_dark)
-
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ankittripathe&icon=0&color=0)](https://visitcount.itsvg.in)
